@@ -7,7 +7,7 @@ export function Header(){
         <div className='header'>
             <div>
                 <h1>Hi, I'm João! 👋</h1>
-                <h2>Software Engineering</h2>
+                <h2>Software Engineer</h2>
             </div>
 
             <Image

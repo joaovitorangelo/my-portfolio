@@ -8,7 +8,7 @@ const inter = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'João Angelo',
+  title: 'João Vitor',
   description: 'João Vitor is a software engineering...',
 }
 
